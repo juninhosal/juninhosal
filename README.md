@@ -33,6 +33,8 @@
 # ⌛ Em estudo
 <div align="center" style="display: inline_block">
 <BR/>
+    <img alt="Junior-laravel" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"> 
+    &nbsp
     <img alt="Junior-angular" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
     &nbsp 
     <img alt="Junior-vue" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
