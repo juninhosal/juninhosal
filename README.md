@@ -107,7 +107,7 @@
      &nbsp
     <img alt="imagem15" height="30%" width="35%" src="https://user-images.githubusercontent.com/63266707/221415968-3ba4fb67-196a-47a0-9b5c-e5cbea46dca7.png">
      &nbsp
-    <img alt="imagem16" height="30%" width="35%" src="https://user-images.githubusercontent.com/63266707/221415970-5c5087ec-bbc1-4c2c-9627-b0512cc86a08.png">
+    <img alt="imagem16" height="30%" width="35%" src="https://user-images.githubusercontent.com/63266707/224522482-df6a9342-918d-41da-bd1e-8d83428c2a2b.jpeg">
      &nbsp
     <img alt="imagem17" height="30%" width="35%" src="https://user-images.githubusercontent.com/63266707/221415976-42bae041-b34c-4bed-baea-ef37830ebc4a.png">
      &nbsp
