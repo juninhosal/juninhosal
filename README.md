@@ -22,7 +22,7 @@
     &nbsp 
     <img alt="Junior-js" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
     &nbsp 
-    <img alt="Junior-php" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
+    <img alt="Junior-php" height="30%" width="6%" src="https://github.com/juninhosal/juninhosal/assets/63266707/8dcda131-75e1-4ea5-ba56-047a4b9b06c8"> 
     &nbsp 
     <img alt="Junior-codeigniter" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg">
     &nbsp
@@ -35,7 +35,7 @@
 <BR/>
     <img alt="Junior-laravel" height="30%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
     &nbsp
-    <img alt="Junior-laravel" height="30%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"> 
+    <img alt="Junior-laravel" height="30%" width="6%" src="https://github.com/juninhosal/juninhosal/assets/63266707/9f389953-b75f-4dfc-9ae1-d775999156d2"> 
     &nbsp
     <img alt="Junior-angular" height="30%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
     &nbsp 
