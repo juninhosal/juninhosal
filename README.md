@@ -3,7 +3,6 @@
 
 <div style="width:550px; word-wrap: break-word;">
     <li>📚 Graduado em Ciência da Computação na UNIP (2020)
-    <li>💻 Desenvolvedor na <a href="https://www.wises.com.br/">Wise </a>
     <li>🗲 Entusiasta em artes geradas por inteligencia artificial (<a href="https://github.com/basujindal/stable-diffusion"> Stable Diffusion </a>)
     <li>💓 Animes, Filmes (Quadrinhos, Ficção científica, Fantasia, mistérios e Terror), livros (Ficção científica e Fantasia).🤓
     <li>💤 Conhecer outros países principalmente o Japão e Canadá, ver a neve e a aurora boreal.
