@@ -45,7 +45,7 @@
 </div>
 <BR/>
 
-# 📈 Estatísticas
+<!--# 📈 Estatísticas
 
 <div align="center" style="display: inline_block"><BR/>
 <picture>
@@ -71,7 +71,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhosal&layout=compact" />
 </picture>
 </div>
-<BR/>
+<BR/>-->
 
 # 🖼️ Algumas imagens que eu gerei com a IA (Stable Diffusion)
 
